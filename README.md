@@ -61,7 +61,7 @@
  </a>
 
    
-   [![](https://visitcount.itsvg.in/api?id=joydip007x&icon=5&color=1)](https://visitcount.itsvg.in)
+![Profile views](https://gpvc.arturio.dev/joydip007x)
 
    
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joydip007x&repo=466-ECommerce)](https://github.com/joydip007x/466-ECommerce)
