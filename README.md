@@ -31,7 +31,7 @@
   </a>
      <a href="https://github.com/joydip007x/Certified">
    <img align="right"
-        src="https://github-readme-stats.vercel.app/api/pin/?username=joydip007x&repo=Certified&theme=dark&border_color=0c2aac"
+        src="https://github-readme-stats.vercel.app/api/pin/?username=joydip007x&repo=Certified&theme=dark&border_color=0c2aac" />
         
  </a>
       
