@@ -22,14 +22,15 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+
 <a href="https://github.com/joydip007x/466-ECommerce">
-   <img align="left"  
-        src="https://github-readme-stats.vercel.app/api/pin/?username=joydip007x&repo=466-ECommerce&theme=dark&border_color=0c2aac"/>
+   <img align="left"  width="480px"
+        src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=joydip007x&repo=466-ECommerce&theme=default&border_color=0c2aac&border_radius=29.5"/>
  </a>
  
    <a href="https://github.com/AshrafTasin/SWE-Lab-Project-GLEAM">
-   <img align="right"
-        src="https://github-readme-stats.vercel.app/api/pin/?username=AshrafTasin&repo=SWE-Lab-Project-GLEAM&theme=dark&border_color=0c2aac"/>
+   <img align="right" width="480px"
+        src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=AshrafTasin&repo=SWE-Lab-Project-GLEAM&theme=default&border_color=0c2aac&border_radius=29.5"/>
         
  </a>
 
@@ -39,12 +40,12 @@
  
             
    <a href="https://github.com/joydip007x/AndroidApplication_Pothik">
-    <img  align="left"
-        src="https://github-readme-stats.vercel.app/api/pin/?username=joydip007x&repo=AndroidApplication_Pothik&theme=dark&border_color=0c2aac" />
+    <img  align="left"  width="480px"
+        src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=joydip007x&repo=AndroidApplication_Pothik&theme=default&border_color=0c2aac&border_radius=29.5" />
   </a>
      <a href="https://github.com/joydip007x/Certified">
-   <img align="right"
-        src="https://github-readme-stats.vercel.app/api/pin/?username=joydip007x&repo=Certified&theme=dark&border_color=0c2aac" />
+   <img align="right"  width="480px"
+        src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=joydip007x&repo=Certified&theme=default&border_color=0c2aac&border_radius=29.5" />
         
  </a>
       
@@ -52,20 +53,19 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  
  <a href="https://github.com/joydip007x/What-Goes-Up">
-   <img align="left"
-        src="https://github-readme-stats.vercel.app/api/pin/?username=joydip007x&repo=What-Goes-Up&theme=dark&border_color=0c2aac"/>
+   <img align="left"  width="480px"
+        src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=joydip007x&repo=What-Goes-Up&theme=default&border_color=0c2aac&border_radius=29.5"/>
         
  </a>
 
   <a href="https://github.com/joydip007x/MedKeep">
-   <img align="right"
-        src="https://github-readme-stats.vercel.app/api/pin/?username=joydip007x&repo=MedKeep&theme=dark&border_color=0c2aac"/>
-      
+   <img align="right"  width="480px"
+        src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=joydip007x&repo=MedKeep&theme=default&border_color=0c2aac&border_radius=29.5"/>
  </a>
   
    
-
-
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+ -->
 
    
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joydip007x&repo=466-ECommerce)](https://github.com/joydip007x/466-ECommerce)
