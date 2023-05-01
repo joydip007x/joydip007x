@@ -13,10 +13,18 @@
      <img align="center"  
           src="https://img.shields.io/github/followers/joydip007x?label=Follow&style=social"/>
    </a> -->
+   
+<!-- Streak Graph -->
+
+<a href="http://www.github.com/joydip007x"><img src="https://github-readme-streak-stats.herokuapp.com/?user=joydip007x&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" align="center" /></a>
+
+
 
 
 
 <!-- Dark Mode -->
+
+
 
 <a    href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
 <img  align="left" height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=joydip007x&layout=compact&langs_count=10&hide=jupyter%20notebook&hide_border=true&role=owner,collaborator&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Rick Staa's Language stats" />
@@ -97,8 +105,13 @@
    <img align="left"  
         src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=joydip007x&repo=MedKeep&theme=default&border_color=0c2aac&border_radius=29.5"/>
  </a>
-  
-   
+ 
+ 
+
+
+ <a href="http://www.github.com/joydip007x"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=joydip007x&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+     
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
  -->
 
