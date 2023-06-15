@@ -23,7 +23,7 @@
 
 
 <a    href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-<img  align="left" height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=joydip007x&layout=compact&langs_count=10&hide=jupyter%20notebook&hide_border=true&role=owner,collaborator&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Rick Staa's Language stats" />
+<img  align="left" height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=joydip007x&layout=compact&langs_count=10&hide=jupyter%20notebook,c%2b%2b&hide_border=true&role=owner,collaborator&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Rick Staa's Language stats" />
 </a>
 
 <a   href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
