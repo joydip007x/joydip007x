@@ -2,8 +2,8 @@
 #### Hey 👋, I'm JoyDip [![Github](https://img.shields.io/github/followers/joydip007x?label=Follow&style=social)](https://github.com/joydip007x) 
 ##### :heart: <a href="https://www.youtube.com/watch?v=4HlJ3zp6RC8&list=PLfU57O_hhlbqWNR7AesTALqqxhryrsdgF&index=40" >**Live A Life Worth To Remember !**</a> :heart:
 ###### 🌐 Socials: 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/joydip007x)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/joydip007x) 
+<!---[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/joydip007x) --->
+<!---[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/joydip007x) --->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joydip007x) 
 [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Joydip007x) 
 ###### 💻 Tech Stack:
